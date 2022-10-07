@@ -17,12 +17,6 @@ You will be given a training and validation dataset for this task.
 The outcome of this task should be a dataframe (the msisdn is a unique identifier), probability (likelihood of converting), result (whether a user will convert or not).
 Default threshold was set to 0.50 in this sample file. Use any threshold you deem fit for this task
 
-Please use this format as it makes it quicker for us to evaluate your submission. Here’s a sample CSV file
-     msisdn 	                     probability 	  result 
-7c8edb299da16930236a66fc69484044 	      0.45 	     0 
-3ca62fd4606e4867275a51f0b93d6807 	      0.85 	     1 
-
-
 Task B: In this project, you have been provided with extensive sample data of the general population on Company A database and established users who have
 installed/downloaded an app in order to create customer segments. The data includes demographic and transaction records of customers. Company A AdOps (Advertising
 Operations) team would like to leverage ML to launch a targeted marketing ad campaign that is tailored to a specific group of customers. In order for this campaign to be
